@@ -1,2 +1,2 @@
 # knowledge
-Knowledge accumulated through trial, error, dumb luck, and accidental expertise
+Information accumulated through trial, error, dumb luck, and accidental expertise
