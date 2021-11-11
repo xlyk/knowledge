@@ -1,3 +1,2 @@
-debug template issues
-
-`helm template --debug`
+# debug template issues
+````helm template --debug`
